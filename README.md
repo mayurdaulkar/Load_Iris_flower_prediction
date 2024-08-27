@@ -1,1 +1,2 @@
 # Load_Iris_flower_prediction
+Project description. I developed a machine learning model to classify iris flowers using the Iris dataset, which includes features like sepal and petal dimensions across three species: Iris-setosa, Iris-versicolor, and Iris-virginica. I used a Support Vector Machine (SVM) algorithm for this task, achieving around 90% accuracy in distinguishing the different flower types.
